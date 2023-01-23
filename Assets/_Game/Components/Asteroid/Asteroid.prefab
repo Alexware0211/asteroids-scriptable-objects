@@ -53,6 +53,11 @@ MonoBehaviour:
   _minTorque: 0.1
   _maxTorque: 0.5
   _shape: {fileID: 1524412162417054026}
+  Settings:
+  - {fileID: 11400000, guid: 3681261d28a012b4d86fbef120644e80, type: 2}
+  - {fileID: 11400000, guid: e9b708e26bf1dcd469a23b60ebdc8e5c, type: 2}
+  - {fileID: 11400000, guid: 917c9156491390a4583e8e090d77e57d, type: 2}
+  Damage: 1
 --- !u!50 &1784223117350305362
 Rigidbody2D:
   serializedVersion: 4

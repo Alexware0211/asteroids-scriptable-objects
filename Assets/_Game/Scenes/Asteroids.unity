@@ -349,7 +349,16 @@ PrefabInstance:
       propertyPath: m_Points.m_Paths.Array.data[0].Array.data[2].y
       value: 1.2715299
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 3617658530249206207, guid: ab39a3d0044af1d46b46c0ccbc24f3dd, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6578066716522484772, guid: ab39a3d0044af1d46b46c0ccbc24f3dd, type: 3}
+      propertyPath: playerStats
+      value: 
+      objectReference: {fileID: 11400000, guid: 85eda045aae29bc4597c905df4db199a, type: 2}
+    m_RemovedComponents:
+    - {fileID: 8326815840096961222, guid: ab39a3d0044af1d46b46c0ccbc24f3dd, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: ab39a3d0044af1d46b46c0ccbc24f3dd, type: 3}
 --- !u!1001 &7101966234704262264
 PrefabInstance:
